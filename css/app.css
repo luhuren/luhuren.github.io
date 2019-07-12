@@ -21,6 +21,7 @@ body,
   min-height: calc(100% - 40px + 30px);
   overflow-x: hidden;
   overflow-y: auto;
+  max-width: 1688px;
   -webkit-animation: fade-in-down 0.6s 0.6s both;
   -moz-animation: fade-in-down 0.6s 0.6s both;
   animation: fade-in-down 0.6s 0.6s both;
